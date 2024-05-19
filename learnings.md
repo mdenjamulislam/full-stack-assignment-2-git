@@ -17,3 +17,10 @@ Merging is the process of taking changes from one branch and integrating them in
 
 ### Conflicts
 Conflicts occur when changes in different branches interfere with each other. These need to be resolved manually by the developer.
+
+# 2 More things
+## Collaborator
+A collaborator is a person who has been generated permissions to contribute directly to a repository. Collaborators can push changes, create and merge pull requests, and manage issues and projects within the repository, depending on the permissions assigned to them.
+
+## GitHub Page
+A GitHub Page is a static website hosting service provided by GitHub. It allows you to serve static content (HTML, CSS, JavaScript, images, etc.) directly from a GitHub repository. This service is commonly used for hosting personal blogs, project documentation, and even full websites.
